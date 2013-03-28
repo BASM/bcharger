@@ -1,0 +1,106 @@
+# EESchema Netlist Version 1.1 created  Чт. 28 марта 2013 23:54:18
+(
+ ( /515489A6 C1V5 C1 CP1
+  ( 1 N-000004 )
+  ( 2 GND )
+ )
+ ( /514CC906 D3 D1 DIODE
+  ( 1 GND )
+  ( 2 N-000005 )
+ )
+ ( /515489A3 D3 D2 DIODE
+  ( 1 N-000004 )
+  ( 2 N-000006 )
+ )
+ ( /515489A2 INDUCTOR_V L1 INDUCTOR
+  ( 1 N-000005 )
+  ( 2 N-000004 )
+ )
+ ( /5154938E PIN_ARRAY_5x1 P1 CONN_5
+  ( 1 GND )
+  ( 2 N-000008 )
+  ( 3 N-000003 )
+  ( 4 N-000002 )
+  ( 5 +5V )
+ )
+ ( /515489A5 SIL-2 P2 BATT
+  ( 1 N-000009 )
+  ( 2 GND )
+ )
+ ( /515489A7 SOT23GDS Q1 MOSFET_N
+  ( D +5V )
+  ( G N-000002 )
+  ( S N-000005 )
+ )
+ ( /514CCB23 R1 R1 R10k
+  ( 1 N-000006 )
+  ( 2 N-000003 )
+ )
+ ( /514CCB25 R1 R2 R47k
+  ( 1 N-000003 )
+  ( 2 GND )
+ )
+ ( /514CCB3A R1 R3 R10k
+  ( 1 N-000009 )
+  ( 2 N-000008 )
+ )
+ ( /514CCB38 R1 R4 R47k
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /515489A4 R1 R5 R1
+  ( 1 N-000006 )
+  ( 2 N-000009 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

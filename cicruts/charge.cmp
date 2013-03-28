@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2011-nov-30)-stable date = Чт. 28 марта 2013 23:54:18
+
+BeginCmp
+TimeStamp = /515489A6;
+Reference = C1;
+ValeurCmp = CP1;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /514CC906;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /515489A3;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /515489A2;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = INDUCTOR_V;
+EndCmp
+
+BeginCmp
+TimeStamp = /5154938E;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /515489A5;
+Reference = P2;
+ValeurCmp = BATT;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /515489A7;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /514CCB23;
+Reference = R1;
+ValeurCmp = R10k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /514CCB25;
+Reference = R2;
+ValeurCmp = R47k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /514CCB3A;
+Reference = R3;
+ValeurCmp = R10k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /514CCB38;
+Reference = R4;
+ValeurCmp = R47k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /515489A4;
+Reference = R5;
+ValeurCmp = R1;
+IdModule  = R1;
+EndCmp
+
+EndListe
